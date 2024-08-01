@@ -31,8 +31,9 @@ This is written in markdown language.
 ---
 **Testimonial:**
 
-**John Doe:** (Change to your name)
+**Klara Nguyen:** 
 
-Throughout ACTL1101, I have mastered the topics listed in principles of actuarial science, and the coding assignment work is mine. I feel much more prepared for my future career.
+Throughout ACTL1101, I have mastered the topics listed in principles of actuarial science,
+and the coding assignment work is mine. I feel much more prepared to for my future career.
 
 😄😄😄
